@@ -9,20 +9,20 @@ export class AppComponent {
 
   posts = [
     {
-      title: 'Post 1',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi efficitur laoreet ultricies. Nulla bibendum, odio eget viverra efficitur, nisl enim congue nisl, ut lobortis justo sapien at tortor. Aenean mollis.',
+      title: 'Le nouveau ASUS ROG est une tuerie !',
+      content: 'Le nouveau ASUS ROG, prévue pour une sortie officielle en 2019, a pu être testé par norte direction. Suspense !',
       loveIts: 0,
       created_at: new Date()
     },
     {
-      title: 'Post 2',
-      content: 'Contenu post 2',
+      title: 'EasyPHP rachète SensioLabs, c\'est officiel',
+      content: 'Nous aussi nous sommes choqués à notre rédaction. Incroyable mais vrai, mais EasyPHP étant trop "casual" a décidé de racheter la société SensioLabs à l\'origine du sublimissime Symfony. Réactions de Fabien POTENCIER.',
       loveIts: -1,
       created_at: new Date()
     },
     {
-      title: 'Post 3',
-      content: 'Contenu post 3',
+      title: 'Si toi aussi tu n\'as plus d\'idée d\'article invraissemblable...',
+      content: 'Ouai vraiment, plus aucune inspiration... :-)',
       loveIts: 1,
       created_at: new Date()
     }
